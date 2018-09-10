@@ -1,0 +1,20 @@
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.csprojResolveAssemblyReference.cache
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.Cache
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\fedem\Escritorio\Proyectos\Music_Player\Music_Player\obj\Debug\Music_Player.pdb
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\bin\Debug\Music_Player.exe.config
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\bin\Debug\Music_Player.exe
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\bin\Debug\Music_Player.pdb
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.csprojAssemblyReference.cache
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.Form1.resources
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.GenerateResource.cache
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.exe
+C:\Users\fedem\Escritorio\Proyectos\Padree! Dame piernas!!\C#\Music_Player\Music_Player\obj\Debug\Music_Player.pdb

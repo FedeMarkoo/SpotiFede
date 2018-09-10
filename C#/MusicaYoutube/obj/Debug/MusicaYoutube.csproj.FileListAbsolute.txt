@@ -1,0 +1,10 @@
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\bin\Debug\MusicaYoutube.exe.config
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\bin\Debug\MusicaYoutube.exe
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\bin\Debug\MusicaYoutube.pdb
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.csprojAssemblyReference.cache
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.Form1.resources
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.Properties.Resources.resources
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.csproj.GenerateResource.cache
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.exe
+C:\Users\fedem\Escritorio\Proyectos\MusicaYoutube\MusicaYoutube\obj\Debug\MusicaYoutube.pdb
